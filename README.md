@@ -18,5 +18,8 @@ File integrity monitoring is a process of ensuring that files within a system re
 2. The script calculates file hashes and maintains a baseline configuration file in a "baseline.txt" file in the parent directory.
 3. It then checks for file integrity changes, such as file creation, modification, or deletion using hashing.
 
+## Outputs
+
+![powershell](https://github.com/cs-vansh/FileIntegrityMonitor/assets/104628209/6f6c7cf3-6dee-44bd-a07a-e9e92fed73ca)
 
 
