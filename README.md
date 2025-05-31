@@ -22,4 +22,10 @@ File integrity monitoring is a process of ensuring that files within a system re
 
 ![powershell](https://github.com/cs-vansh/FileIntegrityMonitor/assets/104628209/6f6c7cf3-6dee-44bd-a07a-e9e92fed73ca)
 
+## Future Scope
+
+- Separate logic for creation of baseline and monitoring
+- Enable hash algorithm selection (SHA256, MD5,etc.)
+- Implement Recursive checking for all levels 
+
 
